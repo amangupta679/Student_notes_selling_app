@@ -1,7 +1,10 @@
 # 
-![IMG20211110195707](https://user-images.githubusercontent.com/56467452/156219446-e5fcd522-b1c9-4d1e-bd51-eda926ca1c0d.jpg)
+Hello Every one My name is name gupta  and Im an engineering student , this is an app created by me . 
+This app  is an UI of a replica of an kind of shopping application  ,  I tried creating it by my own and also try to keep updating it . 
+hope you all will like my work 
+thank you.
 
 
 
-## Getting Started
+
 
